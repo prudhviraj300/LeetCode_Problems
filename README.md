@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+## Greedy
+|  |
+| ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 <!---LeetCode Topics End-->
