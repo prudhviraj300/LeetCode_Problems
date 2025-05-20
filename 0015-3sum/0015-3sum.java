@@ -17,8 +17,10 @@ class Solution {
                         continue;
                     }
                     List<Integer> ele = Arrays.asList(nums[i], nums[j], (target - nums[j]));
-                    Collections.sort(ele);
-                    set.add(ele);
+                    if(!set.contains(ele)){
+                        Collections.sort(ele);
+                        set.add(ele);
+                    }
                 }
             }
         }
