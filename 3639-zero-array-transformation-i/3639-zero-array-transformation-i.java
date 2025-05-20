@@ -1,10 +1,10 @@
 class Solution {
 
     public boolean isZeroArray(int[] nums, int[][] queries) {
-        // [ 0 1 2 3 ]
-        // [ -1 -1 0 +1 ]  [ -1 -2 -2 -1]
-        // [ 4 3 2 1 ]
-        // [ 3 1 0 0 ]
+        // [ 0 1 2 3 ]  indices
+        // [ -1 -1 0 +1]  [ -1 -2 -2 -1]  prefix array
+        // [ 4 3 2 1 ]  org array
+        // [ 3 1 0 0 ] org + prefix 
         int n = nums.length;
         List<Integer> pre = new ArrayList<>(Collections.nCopies(n, 0));
         for (int[] ele : queries) {
