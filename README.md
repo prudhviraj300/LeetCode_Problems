@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0338-counting-bits) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,4 +122,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
