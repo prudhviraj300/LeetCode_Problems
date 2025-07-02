@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [3618-find-the-original-typed-string-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3639-zero-array-transformation-i) |
 ## Binary Search
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
