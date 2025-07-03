@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0371-sum-of-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0371-sum-of-two-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
