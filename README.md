@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0371-sum-of-two-integers) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
