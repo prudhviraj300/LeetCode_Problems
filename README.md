@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3531-count-covered-buildings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 | [3639-zero-array-transformation-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [3531-count-covered-buildings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 ## Dynamic Programming
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3531-count-covered-buildings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 ## Prefix Sum
 |  |
 | ------- |
