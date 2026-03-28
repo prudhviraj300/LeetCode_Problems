@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3618-find-the-original-typed-string-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3618-find-the-original-typed-string-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3617-find-the-original-typed-string-i) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
+| [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
