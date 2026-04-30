@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
