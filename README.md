@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 ## Enumeration
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
