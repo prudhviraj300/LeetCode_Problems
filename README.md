@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1861-rotating-the-box) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 ## Linked List
 |  |
 | ------- |
