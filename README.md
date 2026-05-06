@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
+| [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1861-rotating-the-box) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
