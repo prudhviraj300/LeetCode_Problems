@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0371-sum-of-two-integers) |
+| [1512-number-of-good-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1470-shuffle-the-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1861-rotating-the-box](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1861-rotating-the-box) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3583-count-special-triplets](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3583-count-special-triplets) |
 ## Recursion
