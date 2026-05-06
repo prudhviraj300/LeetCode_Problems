@@ -5,7 +5,7 @@ public:
         string resString = "";
 
         for(char ch : s){
-            if(isalnum(ch)){
+            if( (ch <= 57 && ch >= 48) || (ch >= 97 && ch <= 122)){
                 resString += ch;
             }
         }
