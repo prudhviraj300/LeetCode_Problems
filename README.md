@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
