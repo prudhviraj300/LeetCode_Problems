@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0371-sum-of-two-integers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0383-ransom-note) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
