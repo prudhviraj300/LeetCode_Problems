@@ -1,34 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> rotateGrid(vector<vector<int>>& grid, int k) {
-        int T = 0, L = 0;
-        int B = grid.size() - 1, R = grid[0].size() - 1;
+        int top = 0, left = 0;
+        int bottom = grid.size() - 1, right = grid[0].size() - 1;
 
-        while (T < B && L < R) {
-            int len = B - T, wid = R - L;
+        while (top < bottom && left < right) {
+            int len = bottom - top, wid = right - left;
             int perimeter = 2 * len + 2 * wid;
             int r = k % perimeter;
 
             while (r--) {
-                int tmp = grid[T][L];
+                int tmp = grid[top][left];
 
-                for (int i = L; i < R; i++)
-                    grid[T][i] = grid[T][i + 1];
+                for (int i = left; i < right; i++)
+                    grid[top][i] = grid[top][i + 1];
 
-                for (int i = T; i < B; i++)
-                    grid[i][R] = grid[i + 1][R];
+                for (int i = top; i < bottom; i++)
+                    grid[i][right] = grid[i + 1][right];
 
-                for (int i = R; i > L; i--)
-                    grid[B][i] = grid[B][i - 1];
+                for (int i = right; i > left; i--)
+                    grid[bottom][i] = grid[bottom][i - 1];
 
-                for (int i = B; i > T; i--)
-                    grid[i][L] = grid[i - 1][L];
+                for (int i = bottom; i > top; i--)
+                    grid[i][left] = grid[i - 1][left];
 
-                grid[T + 1][L] = tmp;
+                grid[top + 1][left] = tmp;
             }
 
-            T++; L++;
-            B--; R--;
+            top++; left++;
+            bottom--; right--;
         }
 
         return grid;
