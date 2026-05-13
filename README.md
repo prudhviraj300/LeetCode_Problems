@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [1470-shuffle-the-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -317,4 +320,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
