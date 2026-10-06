@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
