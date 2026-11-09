@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
