@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0371-sum-of-two-integers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
+| [1266-minimum-time-visiting-all-points](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
