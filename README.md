@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1861-rotating-the-box) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0796-rotate-string) |
