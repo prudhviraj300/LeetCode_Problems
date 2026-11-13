@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1861-rotating-the-box) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
