@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0796-rotate-string) |
