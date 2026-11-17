@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -393,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
