@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3618-find-the-original-typed-string-ii) |
