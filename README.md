@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3531-count-covered-buildings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3531-count-covered-buildings) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3583-count-special-triplets](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3583-count-special-triplets) |
