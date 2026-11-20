@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1768-merge-strings-alternately) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2390-removing-stars-from-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3194-find-words-containing-character) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
