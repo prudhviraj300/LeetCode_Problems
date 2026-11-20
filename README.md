@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [0845-longest-mountain-in-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0945-snakes-and-ladders](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0945-snakes-and-ladders) |
 | [0977-squares-of-a-sorted-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
+| [0845-longest-mountain-in-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0845-longest-mountain-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3548-equal-sum-grid-partition-ii) |
