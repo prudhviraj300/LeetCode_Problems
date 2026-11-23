@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0796-rotate-string) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
