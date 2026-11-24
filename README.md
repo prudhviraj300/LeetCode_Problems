@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [2573-find-the-string-with-lcp](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Interactive
 |  |
