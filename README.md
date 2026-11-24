@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Graph
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0872-leaf-similar-trees](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Stack
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/prudhviraj300/LeetCode_Problems/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
